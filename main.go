@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"log"
-
 	"os"
 
 	pb "github.com/inigofu/shippy-vessel-service/proto/vessel"
